@@ -1,5 +1,5 @@
-<p align="center"><img src="https://github.com/Shieldtail/devguide/blob/main/images/landscape-logo.png" height="150px" width="600px">
-<p align="center">Django framework is more famous for its security and dynamic programming techniques, We observed the demand of Django CMS as we only have standalone outstanding wagtail CMS available on internet so here we are making some effort to make a reliable and modern CMS as easy as Wordpress. Shieldtail is a lightweight CMS for Django framework, Which makes secure development more easy for developer who are more concerned with the security issues.</p>
+<p align="center"><img src="https://github.com/Shieldtail/devguide/blob/main/images/shieldtail-text-logo">
+<p align="center">Shieldtail is a semi open source CMS Software powered by Artificial Intelligence built on python-django framework for creating most secured and modern website or app. Using most advanced key features of AI to make the development secure, faster & modern</p>
   <p align="center">
     <a href="https://github.com/Shieldtail/devguide/issues/new?assignees=thehassantahir&labels=Contribution&template=contribution-request.md&title=contribution">Contribute</a>
     .
