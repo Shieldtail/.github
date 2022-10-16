@@ -6,10 +6,10 @@
 ### Some Useful Links to Get Started:
 
 - [Shieldtail Organization Home Page](shieldtail.org).
-- Read Current Version [Documentation](shieltail.org).
+- Read Current Version [Documentation](shieldtail.org).
 - [Forum](shieldtail.org) for Getting Help.
-- Since You are on Github! Read Our [Contributing Guide](shieltail.org), To Sail With Us.
-- Having Issue? Submit Your Problem [Here](shieltail.org)!
+- Since You are on Github! Read Our [Contributing Guide](shieldtail.org), To Sail With Us.
+- Having Issue? Submit Your Problem [Here](shieldtail.org)!
 
 ### Code of Conduct
-All Shieldtail Projects are Governed by the [Shieltail Code of Conduct](shieltail.org). Please keep them in mind before PR.
+All Shieldtail Projects are Governed by the [Shieldtail Code of Conduct](shieldtail.org). Please keep them in mind before making a PR.
