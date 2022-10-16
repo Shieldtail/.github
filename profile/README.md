@@ -1,4 +1,4 @@
-<p align="center"><img src="https://github.com/Shieldtail/devguide/blob/main/images/shieldtail-text-logo.png">
+<p align="center"><img src="https://github.com/Shieldtail/.github/blob/main/shieldtail-text-logo.png">
 
 > Shieldtail is a semi open source CMS Software powered by Artificial Intelligence built on python-django framework for creating most secured and modern website or app. Using most advanced key features of AI to make the development secure, faster & modern.
 **Launching Date 1st June 2023**
